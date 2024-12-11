@@ -1,0 +1,25 @@
+{
+    "buttons": [
+      {
+        "id": "button1",
+        "styles": {
+          "backgroundColor": "blue",
+          "color": "white",
+          "borderRadius": "5px",
+          "padding": "10px 20px",
+          "fontSize": "16px"
+        }
+      },
+      {
+        "id": "button2",
+        "styles": {
+          "backgroundColor": "green",
+          "color": "black",
+          "borderRadius": "10px",
+          "padding": "15px 30px",
+          "fontSize": "18px"
+        }
+      }
+    ]
+  }
+  
